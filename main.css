@@ -1,3 +1,16 @@
-.buttons{
-    margin-top: 50%;
+.vertical-center {
+    min-height: 100%;  
+    min-height: 100vh;    
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+
+.navbar span, .foot{
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.middle {
+    margin: 0 6px;
 }
