@@ -14,3 +14,11 @@
 .middle {
     margin: 0 6px;
 }
+
+.jumbotron{
+    margin-top: 25%;
+}
+
+hr {
+    border-top-color: white !important;
+}
