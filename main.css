@@ -11,8 +11,9 @@
     font-family: 'Do Hyeon', sans-serif;
 }
 
-.middle {
+.btns {
     margin: 0 6px;
+    margin-top: 6px;
 }
 
 .jumbotron{
@@ -25,4 +26,8 @@ hr {
 
 .dropdown{
     margin-right: 40px;
+}
+
+.fab{
+    padding: 10px;
 }
