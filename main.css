@@ -15,7 +15,7 @@ html {
 }
 
 .jumbotron {
-    margin-top: 8em;
+    margin-top: 10em;
 }
 
 .container {
@@ -30,10 +30,5 @@ hr {
 
 .fab {
     font-size: 20px;
-}
-
-a > .fab:hover, 
-a > .fas:hover{
-  color: rgba(0, 188, 140, 1) !important;
 }
 
