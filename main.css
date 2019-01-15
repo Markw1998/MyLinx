@@ -1,0 +1,34 @@
+html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.navbar span,
+.foot {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.btns {
+    margin: 6px 6px;
+    color: white !important;
+}
+
+.jumbotron {
+    margin-top: 10em;
+}
+
+.container {
+    height: 25em;
+}
+
+hr {
+    border: 0 !important;
+    height: 1px !important;
+    background-image: linear-gradient(to right, rgba(0, 188, 140, 0), rgba(0, 188, 140, 0.75), rgba(0, 188, 140, 0));
+  }
+
+.fab {
+    font-size: 20px;
+}
+
