@@ -3,12 +3,12 @@
     "short_name": "MyLinx",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=dLJorrEAP9",
+            "src": "/android-chrome-192x192.png?v=YAmq29zlaR",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=dLJorrEAP9",
+            "src": "/android-chrome-512x512.png?v=YAmq29zlaR",
             "sizes": "512x512",
             "type": "image/png"
         }
